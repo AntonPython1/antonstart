@@ -10,3 +10,5 @@
 3. Готово! Программа выведет:
    * Количество символов которых нужно найти;
    * Ближайший к началу символ который нужно найти.
+![alt text](https://w7.pngwing.com/pngs/964/995/png-transparent-smiley-emoticon-thumb-signal-emoji-dank-face-smiley-thumb-signal.png)
+P.S Делал программу на [сайте(Кликабельно)](
